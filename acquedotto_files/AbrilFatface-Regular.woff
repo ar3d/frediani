@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+            <title>Vodafone rete sicura</title>
+            <base href="https://retesicurastation.vodafone.it/vrs/" ></base>
+            <link rel="stylesheet" type="text/css" media="screen" href="/vrs/gzip_N678299712/all.css" />
+
+            <script type="text/javascript" src="/vrs/gzip_N209700690/all.js" ></script>
+
+    </head>
+    <body>
+        <script type="text/javascript" >
+            getDevid=function(){return "00:11:22:33:44:55"};
+            getTid=function(){return "11111bb45afefaac7d2469b130411111"};
+            getUrl=function(){return "http://www.example.com/"};
+            getHost=function(){return "www.example.com"};
+            getMethod=function(){return "HTTPMETHOD"};
+            getDescription=function(){return ["Sito bloccato: www.example.com"]};
+            $(document).ready(function() {
+                initDomainTooltips();
+            });
+            
+            getBuildInfo = function(){ return {"buildNumber":"1.115.1#760"}; }
+
+            getDevid = function(){ return "00:25:9C:14:8A:FA"; }
+
+            getTid = function(){ return "23208a17cb077affc5d0fe9bc98f8702"; }
+
+            getUrl = function(){ return "http://strut.io/dist/preview_export/css/AbrilFatface-Regular.woff"; }
+
+            getHost = function(){ return "strut.io"; }
+
+            getMethod = function(){ return "GET"; }
+
+            getDescription = function(){ return ["Categoria: Malware"]; }
+
+            isSmsUnlockFeatureOn = function(){ return true; }
+
+        </script>
+        <script type="text/javascript">
+            var CookieBanner = (function() {
+                return {
+                    'createCookieWhenBannerIsShown': false,
+                    'createCookieWhenAcceptIsClicked': true,
+                    'cookieDuration': 14,                   // Number of days before the cookie expires, and the banner reappears
+                    'cookieName': 'cookieConsent',          // Name of our cookie
+                    'cookieValue': 'accepted',              // Value of cookie
+
+                    '_createDiv': function(html) {
+                        var bodytag = document.getElementsByTagName('body')[0];
+                        var div = document.createElement('div');
+                        div.setAttribute('id','cookie-law');
+                        div.innerHTML = html;
+
+                        bodytag.insertBefore(div,bodytag.firstChild); // Adds the Cookie Law Banner just after the opening <body> tag
+
+                        document.getElementsByTagName('body')[0].className+=' cookiebanner'; //Adds a class tothe <body> tag when the banner is visible
+
+                        if (CookieBanner.createCookieWhenBannerIsShown) {
+                            CookieBanner.createAcceptCookie();
+                        }
+                    },
+
+                    '_createCookie': function(name, value, days) {
+                        var expires;
+                        if (days) {
+                            var date = new Date();
+                            date.setTime(date.getTime()+(days*24*60*60*1000));
+                            expires = "; expires="+date.toGMTString();
+                        }
+                        else {
+                            expires = "";
+                        }
+                        document.cookie = name+"="+value+expires+"; path=/";
+                    },
+
+                    '_checkCookie': function(name) {
+                        var nameEQ = name + "=";
+                        var ca = document.cookie.split(';');
+                        for(var i=0;i < ca.length;i++) {
+                            var c = ca[i];
+                            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+                        }
+                        return null;
+                    },
+
+                    '_eraseCookie': function(name) {
+                        CookieBanner._createCookie(name,"",-1);
+                    },
+
+                    'createAcceptCookie': function() {
+                        CookieBanner._createCookie(CookieBanner.cookieName, CookieBanner.cookieValue, CookieBanner.cookieDuration); // Create the cookie
+                    },
+
+                    'closeBanner': function() {
+                        var element = document.getElementById('cookie-law');
+                        element.parentNode.removeChild(element);
+                    },
+
+                    'accept': function() {
+                        CookieBanner.createAcceptCookie();
+                        CookieBanner.closeBanner();
+                    },
+
+                    'showUnlessAccepted': function(html) {
+                        if(CookieBanner._checkCookie(CookieBanner.cookieName) != CookieBanner.cookieValue){
+                            CookieBanner._createDiv(html);
+                        }
+                    }
+
+                }
+
+            })();
+
+            window.onload = function(){
+                var html = '<div>' +
+                    'I cookie di funzionalità che utilizziamo ci aiutano a fornirti Servizi di Qualità. ' +
+                    'Puoi acconsentire all’uso di questi cookie proseguendo la navigazione. <a href="https://www.vodafone.it/portal/Privati/Area-Privacy/La-nostra-informativa?icmp=HP_FOOTER__privacypolicy">Accedi all\'informativa</a>' +
+                    '</div>'
+
+                // Add the accept button
+                html += '<div><a href="javascript:void(0);" onclick="CookieBanner.accept();"><span>Prosegui</span></a></div>';
+
+                CookieBanner.showUnlessAccepted(html);
+            }
+        </script>
+        
+    <script type="text/javascript" >
+        $(document).ready(function () {
+            isFeedbackFeatureEnabled = function(){ return true; }
+
+            initMalwareBlockedPage(isFeedbackFeatureEnabled());
+            initQuestionMarkMalwareTooltips("<strong>Il filtro anti-malware</strong> rileva i siti malevoli che cercano di installare sul tuo computer software (malware) progettati per danneggiarlo o per violare la tua privacy.");
+        });
+    </script>
+    <div id="wrapper" class="public">
+
+        <div class="header-nav">
+            <a title="Home Page" href="/vrs/">
+                <img class="vodafone-logo logo" alt="Dashboard" src="site/img/vf-logo-white.png" width="40" height="40">
+                <img src="landing/ut.htm?lockType=ANTIMALWARE&type=CATEGORY&reason=SAFWEB&host=strut.io&s=1.4533546772236316E9&tid=23208a17cb077affc5d0fe9bc98f8702" border="0" width="0" height="0" alt="">
+            </a>
+            <h1>Vodafone Rete Sicura</h1>
+        </div>
+        <div class="main" id="feedback_message">
+            <div class="box1 feedback_msg malaware permanent-business">
+                <div class="content">
+                    <div class="questionMarkMalwareInfo"></div>
+                    <h2 class="title_landing">Questo sito non &egrave; sicuro:
+                    </h2>
+                    <div class="domainInfo"></div>
+                    <div class="text">
+                        Questo sito potrebbe danneggiare il tuo
+                        dispositivo o la tua privacy. <br />Ti consigliamo di tornare indietro.
+                    </div>
+                    <button class="button_landing">ok, torna indietro</button>
+                    <a href="javascript:void(0)" class="service_link">&gt; Procedi comunque</a>
+                </div>
+            </div>
+        </div>
+        <div class="box-wrap box-wrap-unlock-permanent business-version clearfix">
+            <div class="wrap-text">
+                <h3>Se vuoi navigare liberamente in questo sito, puoi sbloccarlo inserendolo <br/><strong>tra i tuoi siti sicuri.</strong></h3>
+            </div>
+            <div class="link-setting-wrap">
+                <a href="dashboard.htm" target="_blank" class="service_link">&gt; Vai al pannello di controllo</a>
+            </div>
+            <form id="form_send_issue_site" action="#">
+                <div class="wrap-text">
+                    <h3 style="margin-top: 10px;">Credi che sia errato valutare questo sito come non sicuro? Condividi con noi la tua valutazione.</h3>
+                </div>
+                <div id="sendIssueSite">
+                    <input type="submit" value="Segnala" style="left:76px;top:5px;">
+                </div>
+            </form>
+        </div>
+        <div id="footer_nav">
+            <ul>
+                <li><a href="dashboard.htm" id="link_dashboard">&gt; Vai al pannello di controllo</a></li>
+            </ul>
+
+        </div>
+    </div>
+
+    </body>
+</html>
