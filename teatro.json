@@ -1,0 +1,285 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 161,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La ristrutturazione&nbsp;</span></div><font face=\"Lato\"><div style=\"text-align: center;\">del teatro di Benevento</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 671,
+      "y": 473
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 122,
+          "y": 329,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">Scorcio del loggione e della copertura</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.35,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 567,
+      "y": 409
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/teatro/teatro_1.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 10,
+          "scale": {
+            "x": 0.48071495766698025,
+            "y": 0.48071495766698025,
+            "width": 1022,
+            "height": 738.3781749764817
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.35,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 566,
+      "y": 408
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 211,
+          "y": 332,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">Particolare di uno dei palchetti</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 774,
+      "y": 366
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/teatro/teatro_2.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 9,
+          "scale": {
+            "x": 0.48024459078080906,
+            "y": 0.48024459078080906,
+            "width": 1021,
+            "height": 737.6556914393227
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 777,
+      "y": 366
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 312,
+          "y": 352,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">scorcio della platea</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 788,
+      "y": 539
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/teatro/teatro_3.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 14,
+          "scale": {
+            "x": 0.47883349012229537,
+            "y": 0.47883349012229537,
+            "width": 1018,
+            "height": 735.4882408278456
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 789,
+      "y": 539
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 168,
+          "y": 323,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">Velario di copertura cassettonato <br>in vetrocemento</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 583,
+      "y": 577
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/teatro/teatro_4.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 9,
+          "scale": {
+            "x": 0.4783631232361242,
+            "y": 0.4783631232361242,
+            "width": 1017,
+            "height": 734.7657572906867
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 581,
+      "y": 576
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 161,
+        "y": 271,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La ristrutturazione&nbsp;</span></div><font face=\"Lato\"><div style=\"text-align: center;\">del teatro di Benevento</div></font>",
+        "selected": false
+      }
+    ],
+    "z": 500,
+    "impScale": 3,
+    "rotateX": -1.57,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 671,
+    "y": 473
+  },
+  "fileName": "teatro",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 677.5,
+  "overviewY": 471.5
+}
