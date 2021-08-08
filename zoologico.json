@@ -1,0 +1,290 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 8,
+          "y": 276,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">1953</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La stazione zoologica “Anton Dohrn”</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 1,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 443,
+      "y": 386
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_1.jpg",
+          "type": "Image",
+          "x": 232,
+          "y": 2,
+          "scale": {
+            "x": 0.716514954486346,
+            "y": 0.716514954486346,
+            "width": 551,
+            "height": 762.3719115734721
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 458,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_2.jpg",
+          "type": "Image",
+          "x": 226,
+          "y": 2,
+          "scale": {
+            "x": 0.7154362416107383,
+            "y": 0.7154362416107383,
+            "width": 533,
+            "height": 761.2241610738255
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 552,
+      "y": 378
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_3.jpg",
+          "type": "Image",
+          "x": 228,
+          "y": 2,
+          "scale": {
+            "x": 0.7204161248374512,
+            "y": 0.7204161248374512,
+            "width": 554,
+            "height": 766.522756827048
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 200,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 651,
+      "y": 302
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_4.jpg",
+          "type": "Image",
+          "x": 235,
+          "y": 2,
+          "scale": {
+            "x": 0.716514954486346,
+            "y": 0.716514954486346,
+            "width": 551,
+            "height": 762.3719115734721
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 300,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 749,
+      "y": 214
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_5.jpg",
+          "type": "Image",
+          "x": 227,
+          "y": 4,
+          "scale": {
+            "x": 0.716514954486346,
+            "y": 0.716514954486346,
+            "width": 551,
+            "height": 760.222366710013
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 400,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 842,
+      "y": 132
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_6.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 20,
+          "scale": {
+            "x": 0.48274231678486995,
+            "y": 0.48274231678486995,
+            "width": 1021,
+            "height": 735.6992907801418
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 848,
+      "y": 206
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_7.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 21,
+          "scale": {
+            "x": 0.4799054373522459,
+            "y": 0.4799054373522459,
+            "width": 1015,
+            "height": 731.855791962175
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0.52,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1067,
+      "y": 166
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_8.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 14,
+          "scale": {
+            "x": 0.4783631232361242,
+            "y": 0.4783631232361242,
+            "width": 1017,
+            "height": 734.7657572906867
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.53,
+      "index": 8,
+      "selected": true,
+      "active": true,
+      "x": 1132,
+      "y": 259
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "https://ar3d.github.io/frediani/immagini/zoologico/zoologico_8.jpg",
+        "type": "Image",
+        "x": 2,
+        "y": 14,
+        "scale": {
+          "x": 0.4783631232361242,
+          "y": 0.4783631232361242,
+          "width": 1017,
+          "height": 734.7657572906867
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": -0.53,
+    "index": 8,
+    "selected": true,
+    "active": true,
+    "x": 1132,
+    "y": 259
+  },
+  "fileName": "zoologico",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 787.5,
+  "overviewY": 296
+}
