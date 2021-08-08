@@ -1,0 +1,401 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 234,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">1945-1946</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><b>Un'utopia architettonica</b></span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Il grattacielo di Santa Lucia</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 300,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 287,
+      "y": 458
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_1.jpg",
+          "type": "Image",
+          "x": 6,
+          "y": 15,
+          "scale": {
+            "x": 0.47742238946378174,
+            "y": 0.47742238946378174,
+            "width": 1015,
+            "height": 733.3207902163688
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 549,
+      "y": 534
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_2.jpg",
+          "type": "Image",
+          "x": 81,
+          "y": 230,
+          "scale": {
+            "x": 0.37064910630291625,
+            "y": 0.37064910630291625,
+            "width": 788,
+            "height": 335.0667920978363
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 551,
+      "y": 565
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_3.jpg",
+          "type": "Image",
+          "x": 6,
+          "y": 177,
+          "scale": {
+            "x": 0.47883349012229537,
+            "y": 0.47883349012229537,
+            "width": 1018,
+            "height": 432.865475070555
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 150,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 715,
+      "y": 623
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_4.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 157,
+          "scale": {
+            "x": 0.4793038570084666,
+            "y": 0.4793038570084666,
+            "width": 1019,
+            "height": 433.2906867356538
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 200,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 921,
+      "y": 691
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_5.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 147,
+          "scale": {
+            "x": 0.47883349012229537,
+            "y": 0.47883349012229537,
+            "width": 1018,
+            "height": 432.865475070555
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 250,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 717,
+      "y": 755
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_6.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 38,
+          "scale": {
+            "x": 0.47883349012229537,
+            "y": 0.47883349012229537,
+            "width": 1018,
+            "height": 678.9858889934148
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 300,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 521,
+      "y": 823
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_7.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 20,
+          "scale": {
+            "x": 0.477892756349953,
+            "y": 0.477892756349953,
+            "width": 1016,
+            "height": 677.6519285042333
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 350,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 315,
+      "y": 713
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_8.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 121,
+          "scale": {
+            "x": 0.4783631232361242,
+            "y": 0.4783631232361242,
+            "width": 1017,
+            "height": 506.5865475070555
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": 1.57,
+      "rotateY": 0,
+      "rotateZ": 3.14,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 938,
+      "y": 615
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_9.jpg",
+          "type": "Image",
+          "x": 165,
+          "y": 2,
+          "scale": {
+            "x": 0.35788923719958204,
+            "y": 0.35788923719958204,
+            "width": 685,
+            "height": 760.8725182863114
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1072,
+      "y": 692
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_10.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 116,
+          "scale": {
+            "x": 0.4783631232361242,
+            "y": 0.4783631232361242,
+            "width": 1017,
+            "height": 504.673095014111
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 929,
+      "y": 765
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_11.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 15,
+          "scale": {
+            "x": 0.477892756349953,
+            "y": 0.477892756349953,
+            "width": 1016,
+            "height": 734.0432737535277
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": -0.53,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 507,
+      "y": 638
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/grattacielo/grattacielo_12.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 14,
+          "scale": {
+            "x": 0.6365914786967418,
+            "y": 0.6365914786967418,
+            "width": 1016,
+            "height": 733.3533834586466
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 505,
+      "y": 728
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 93,
+        "y": 234,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">1945-1946</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><b>Un'utopia architettonica</b></span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Il grattacielo di Santa Lucia</span></div>",
+        "selected": false
+      }
+    ],
+    "z": 300,
+    "impScale": 2,
+    "rotateX": 0,
+    "rotateY": 1.57,
+    "rotateZ": -1.57,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 287,
+    "y": 458
+  },
+  "fileName": "grattacielo",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 679.5,
+  "overviewY": 640.5
+}
