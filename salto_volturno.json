@@ -1,0 +1,421 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 186,
+          "y": 160,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Centrale idroelettrica</span></div><div style=\"text-align: center;\"><font face=\"Lato\">II Salto Volturno</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 2,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 318,
+      "y": 315
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/pianta.png",
+          "type": "Image",
+          "x": 62,
+          "y": 36,
+          "scale": {
+            "x": 1.285171102661597,
+            "y": 1.285171102661597,
+            "width": 338,
+            "height": 282.7376425855513
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/profilo.png",
+          "type": "Image",
+          "x": 96,
+          "y": 404,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/salto00.png",
+          "type": "Image",
+          "x": 516,
+          "y": 96,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 406,
+      "y": 408
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 131,
+          "y": 273,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La centrale idroelettrica</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">II Salto Volturno</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.79,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 610,
+      "y": 254
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/centrale.jpg",
+          "type": "Image",
+          "x": 122,
+          "y": 44,
+          "scale": {
+            "x": 2.7619047619047614,
+            "y": 2.7619047619047614,
+            "width": 753.9999999999999,
+            "height": 668.3809523809523
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.79,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 600,
+      "y": 262
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/Centrale_elettrica_EAV.jpg",
+          "type": "Image",
+          "x": 109,
+          "y": 94,
+          "scale": {
+            "x": 1.6791666666666667,
+            "y": 1.6791666666666667,
+            "width": 806,
+            "height": 592.7458333333334
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 700,
+      "y": 350
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 162,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Il bacino artificiale&nbsp;</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">a monte della centrale</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.79,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 703,
+      "y": 514
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/bacino.jpg",
+          "type": "Image",
+          "x": 14,
+          "y": 18,
+          "scale": {
+            "x": 0.2891566265060241,
+            "y": 0.2891566265060241,
+            "width": 984,
+            "height": 724.9156626506024
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.79,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 701,
+      "y": 514
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 10,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Le condotte forzate&nbsp;</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">tra il bacino a monte&nbsp;</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">e la centrale idroelettrica a valle</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 538,
+      "y": 609
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/tubature.jpg",
+          "type": "Image",
+          "x": 170,
+          "y": 99,
+          "scale": {
+            "x": 2.406593406593406,
+            "y": 2.406593406593406,
+            "width": 656.9999999999999,
+            "height": 582.3956043956042
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 537,
+      "y": 608
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 139,
+          "y": 289,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La sala macchine&nbsp;</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">all'interno della centrale</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 360,
+      "y": 656
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/macchine_3.jpg",
+          "type": "Image",
+          "x": 7,
+          "y": 4,
+          "scale": {
+            "x": 0.2955276235019,
+            "y": 0.2955276235019,
+            "width": 1010.9999999999999,
+            "height": 755.0730780473544
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 357,
+      "y": 652
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/macchine_1.jpg",
+          "type": "Image",
+          "x": 223,
+          "y": 7,
+          "scale": {
+            "x": 0.22019417475728156,
+            "y": 0.22019417475728156,
+            "width": 567,
+            "height": 749.7611650485437
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.42,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 197,
+      "y": 543
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/volturno/macchine_2.jpg",
+          "type": "Image",
+          "x": 236,
+          "y": 5,
+          "scale": {
+            "x": 0.2188354826103947,
+            "y": 0.2188354826103947,
+            "width": 560,
+            "height": 753.2317311449785
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.28,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 112,
+      "y": 401
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 186,
+        "y": 160,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Centrale idroelettrica</span></div><div style=\"text-align: center;\"><font face=\"Lato\">II Salto Volturno</font></div>",
+        "selected": false
+      }
+    ],
+    "z": 500,
+    "impScale": 2,
+    "rotateX": -1.57,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 318,
+    "y": 315
+  },
+  "fileName": "salto_volturno",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 407.5,
+  "overviewY": 455
+}
