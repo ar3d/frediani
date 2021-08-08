@@ -1,0 +1,616 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 171,
+          "y": 310,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">La colonia elioterapica</font>",
+          "selected": false
+        }
+      ],
+      "z": 200,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 866,
+      "y": 624
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_3.jpg",
+          "type": "Image",
+          "x": -2,
+          "y": 171,
+          "scale": {
+            "x": 0.4816556914393227,
+            "y": 0.4816556914393227,
+            "width": 1024,
+            "height": 433.4901222953904
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 986,
+      "y": 623
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_2.jpg",
+          "type": "Image",
+          "x": -2,
+          "y": 232,
+          "scale": {
+            "x": 0.48071495766698025,
+            "y": 0.48071495766698025,
+            "width": 1022,
+            "height": 287.9482596425212
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 7,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 985,
+      "y": 750
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 272,
+          "y": 313,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Vista prospettica</font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1395,
+      "y": 621
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_1.jpg",
+          "type": "Image",
+          "x": -1,
+          "y": 142,
+          "scale": {
+            "x": 0.5251540041067762,
+            "y": 0.5251540041067762,
+            "width": 1022.9999999999999,
+            "height": 464.7612936344969
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1394,
+      "y": 619
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 86,
+          "y": 325,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Scorcio del fronte anteriore</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 835,
+      "y": 893
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_4.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 16,
+          "scale": {
+            "x": 0.48071495766698025,
+            "y": 0.48071495766698025,
+            "width": 1022,
+            "height": 738.3781749764817
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 835,
+      "y": 891
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 121,
+          "y": 330,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Scorcio del fronte posteriore</font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1126,
+      "y": 390
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_5.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 16,
+          "scale": {
+            "x": 0.48071495766698025,
+            "y": 0.48071495766698025,
+            "width": 1022,
+            "height": 738.3781749764817
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1131,
+      "y": 390
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 27,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">In primo piano i campi sportivi<br>sullo sfondo la colonia elioterapica<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.05,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 630,
+      "y": 592
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_10.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 16,
+          "scale": {
+            "x": 0.4783631232361242,
+            "y": 0.4783631232361242,
+            "width": 1017,
+            "height": 734.7657572906867
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.05,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 627,
+      "y": 591
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 71,
+          "y": 330,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Fronte laterale con umbrarium</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 731,
+      "y": 412
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_9.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 19,
+          "scale": {
+            "x": 0.47883349012229537,
+            "y": 0.47883349012229537,
+            "width": 1018,
+            "height": 735.4882408278456
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 733,
+      "y": 412
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 94,
+          "y": 302,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Vetrate del refettorio sul retro <br>della colonia elioterapica<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 903,
+      "y": 313
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_6.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 16,
+          "scale": {
+            "x": 0.4793038570084666,
+            "y": 0.4793038570084666,
+            "width": 1019,
+            "height": 736.2107243650047
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 902,
+      "y": 312
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 369,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Refettorio</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.35,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1042,
+      "y": 203
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_7.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 17,
+          "scale": {
+            "x": 0.47883349012229537,
+            "y": 0.47883349012229537,
+            "width": 1018,
+            "height": 735.4882408278456
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.35,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1042,
+      "y": 202
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 411,
+          "y": 334,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Cucine</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.35,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 762,
+      "y": 182
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_8.jpg",
+          "type": "Image",
+          "x": 220,
+          "y": -1,
+          "scale": {
+            "x": 0.3597918022121015,
+            "y": 0.3597918022121015,
+            "width": 553,
+            "height": 764.9173715029278
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.35,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 764,
+      "y": 184
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 356,
+          "y": 338,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Spogliatoio</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.22,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 608,
+      "y": 233
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/elioterapica/elioterapica_11.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 16,
+          "scale": {
+            "x": 0.4797742238946378,
+            "y": 0.4797742238946378,
+            "width": 1020,
+            "height": 736.9332079021636
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.22,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 605,
+      "y": 230
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 171,
+        "y": 310,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<font face=\"Lato\">La colonia elioterapica</font>",
+        "selected": false
+      }
+    ],
+    "z": 200,
+    "impScale": 2,
+    "rotateX": 0,
+    "rotateY": 1.57,
+    "rotateZ": -1.57,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 866,
+    "y": 624
+  },
+  "fileName": "elioterapica",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1000,
+  "overviewY": 537.5
+}
