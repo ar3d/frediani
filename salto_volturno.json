@@ -4,15 +4,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 186,
-          "y": 160,
+          "x": 175,
+          "y": 158,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 72,
-          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Centrale idroelettrica</span></div><div style=\"text-align: center;\"><font face=\"Lato\">II Salto Volturno</font></div>",
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Centrali idroelettriche</span></div><div style=\"text-align: center;\"><font face=\"Lato\">I e II Salto Volturno</font></div>",
           "selected": false
         }
       ],
@@ -22,8 +22,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 318,
       "y": 315
     },
@@ -91,7 +91,7 @@
           },
           "type": "TextBox",
           "size": 72,
-          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La centrale idroelettrica</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">II Salto Volturno</span></div>",
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La centrale idroelettrica</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">I Salto Volturno</span></div>",
           "selected": false
         }
       ],
@@ -101,8 +101,8 @@
       "rotateY": 0,
       "rotateZ": -0.79,
       "index": 2,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 610,
       "y": 254
     },
@@ -284,7 +284,7 @@
           },
           "type": "TextBox",
           "size": 72,
-          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La sala macchine&nbsp;</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">all'interno della centrale</span></div>",
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La sala macchine&nbsp;</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">all'interno della centrale</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">I salto Volturno</span></div>",
           "selected": false
         }
       ],
@@ -388,28 +388,28 @@
     "components": [
       {
         "TextBox": {},
-        "x": 186,
-        "y": 160,
+        "x": 131,
+        "y": 273,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 72,
-        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Centrale idroelettrica</span></div><div style=\"text-align: center;\"><font face=\"Lato\">II Salto Volturno</font></div>",
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">La centrale idroelettrica</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">I Salto Volturno</span></div>",
         "selected": false
       }
     ],
-    "z": 500,
-    "impScale": 2,
-    "rotateX": -1.57,
+    "z": 0,
+    "impScale": 1,
+    "rotateX": 0,
     "rotateY": 0,
-    "rotateZ": 0,
-    "index": 0,
+    "rotateZ": -0.79,
+    "index": 2,
     "selected": true,
     "active": true,
-    "x": 318,
-    "y": 315
+    "x": 610,
+    "y": 254
   },
   "fileName": "salto_volturno",
   "deckVersion": "1.0",
