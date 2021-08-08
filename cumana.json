@@ -1,0 +1,1286 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">1938-1940</span></div><font face=\"Lato\"><div style=\"text-align: center;\">Le stazioni della linea cumana</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 700,
+      "impScale": 2,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 918,
+      "y": 499
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/fuorigrotta/pianta_tram_1940.svg",
+          "type": "Image",
+          "x": 5,
+          "y": 17,
+          "scale": {
+            "width": 1018.170807972079,
+            "height": 719.8821206855126
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 6,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 956,
+      "y": 561
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/quartiere_studi/cerchiatura.svg",
+          "type": "Image",
+          "x": 366,
+          "y": 217,
+          "scale": {
+            "width": 287.0938726284967,
+            "height": 287.0938726284967
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 978,
+      "y": 632
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 155,
+          "y": 306,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Stazione di Secondigliano</font>",
+          "selected": false
+        }
+      ],
+      "z": 200,
+      "impScale": 1,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1033,
+      "y": 648
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 99,
+          "y": 316,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Un progetto a scala urbana</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1033,
+      "y": 673
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/fuorigrotta/fuorigrotta_9.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 13,
+          "scale": {
+            "x": 0.6638381201044387,
+            "y": 0.6638381201044387,
+            "width": 1017,
+            "height": 732.8772845953002
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1307,
+      "y": 870
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/quartiere_studi/cerchiatura.svg",
+          "type": "Image",
+          "x": 420,
+          "y": 414,
+          "scale": {
+            "width": 308.30313014247497,
+            "height": 308.30313014247497
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1309,
+      "y": 886
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 235,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">Cabina <br>della sottostazione</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1305,
+      "y": 901
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_1.jpg",
+          "type": "Image",
+          "x": 152,
+          "y": 4,
+          "scale": {
+            "x": 0.4091967403958091,
+            "y": 0.4091967403958091,
+            "width": 703,
+            "height": 752.9220023282887
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1464,
+      "y": 988
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_2.jpg",
+          "type": "Image",
+          "x": 151,
+          "y": 9,
+          "scale": {
+            "x": 0.40847457627118644,
+            "y": 0.40847457627118644,
+            "width": 723,
+            "height": 751.5932203389831
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 200,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1592,
+      "y": 867
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_3.jpg",
+          "type": "Image",
+          "x": 95,
+          "y": 27,
+          "scale": {
+            "x": 0.380997177798683,
+            "y": 0.380997177798683,
+            "width": 810,
+            "height": 701.4158043273753
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 800,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1600,
+      "y": 786
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_4.jpg",
+          "type": "Image",
+          "x": 80,
+          "y": 3,
+          "scale": {
+            "x": 0.4134524929444967,
+            "y": 0.4134524929444967,
+            "width": 879,
+            "height": 760.7525870178739
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 800,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1507,
+      "y": 835
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_5.jpg",
+          "type": "Image",
+          "x": 55,
+          "y": 8,
+          "scale": {
+            "x": 0.40794223826714804,
+            "y": 0.40794223826714804,
+            "width": 904,
+            "height": 750.6137184115524
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 800,
+      "impScale": 2,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1461,
+      "y": 1069
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_6.jpg",
+          "type": "Image",
+          "x": 184,
+          "y": 90,
+          "scale": {
+            "x": 0.30809031044214485,
+            "y": 0.30809031044214485,
+            "width": 655,
+            "height": 566.8861712135465
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 600,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1536,
+      "y": 1027
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/quartiere_studi/cerchiatura.svg",
+          "type": "Image",
+          "x": 594,
+          "y": 200,
+          "scale": {
+            "width": 359.27655260000563,
+            "height": 360.8251584301781
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 1332,
+      "y": 891
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 516,
+          "y": 274,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">Locali officina <br>della sottostazione</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1351,
+      "y": 877
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_7.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 72,
+          "scale": {
+            "x": 0.4910498306724722,
+            "y": 0.4910498306724722,
+            "width": 1015.0000000000001,
+            "height": 625.5974842767296
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1340,
+      "y": 747
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/quartiere_studi/cerchiatura.svg",
+          "type": "Image",
+          "x": 88,
+          "y": 215,
+          "scale": {
+            "width": 552.5660587236482,
+            "height": 554.4391640074572
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 1243,
+      "y": 904
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 456,
+          "y": 136,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">Casa per gli operai <br>della sottostazione</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 1235,
+      "y": 901
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_8.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 102,
+          "scale": {
+            "x": 0.4934687953555878,
+            "y": 0.4934687953555878,
+            "width": 1020,
+            "height": 543.8026124818578
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 1096,
+      "y": 808
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_9.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 101,
+          "scale": {
+            "x": 0.4910498306724722,
+            "y": 0.4910498306724722,
+            "width": 1015.0000000000001,
+            "height": 521.4949201741655
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 200,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 887,
+      "y": 906
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_10.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 95,
+          "scale": {
+            "x": 0.5154586923466802,
+            "y": 0.5154586923466802,
+            "width": 1017,
+            "height": 568.0354789660415
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 300,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 941,
+      "y": 999
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_11.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 106,
+          "scale": {
+            "x": 0.5,
+            "y": 0.5,
+            "width": 1015,
+            "height": 539.5
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 400,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 1112,
+      "y": 1103
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_12.jpg",
+          "type": "Image",
+          "x": 7,
+          "y": 113,
+          "scale": {
+            "x": 0.46593001841620624,
+            "y": 0.46593001841620624,
+            "width": 1012,
+            "height": 527.8987108655616
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1200,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 1111,
+      "y": 1160
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 318,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Cabina intermedia dell'Arenella</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 644,
+      "y": 1379
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_14.jpg",
+          "type": "Image",
+          "x": 6,
+          "y": 61,
+          "scale": {
+            "x": 0.4755409219190969,
+            "y": 0.4755409219190969,
+            "width": 1011,
+            "height": 650.0644402634055
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 575,
+      "y": 1401
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_13.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 49,
+          "scale": {
+            "x": 0.477892756349953,
+            "y": 0.477892756349953,
+            "width": 1016,
+            "height": 653.2793979303857
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 400,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 580,
+      "y": 1537
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_15.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 71,
+          "scale": {
+            "x": 0.4554411106135244,
+            "y": 0.4554411106135244,
+            "width": 1016.9999999999999,
+            "height": 622.5879982086878
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 400,
+      "impScale": 3,
+      "rotateX": 1.48,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 746,
+      "y": 1395
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/secondigliano/secondigliano_16.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 10,
+          "scale": {
+            "x": 0.5361859482303223,
+            "y": 0.5361859482303223,
+            "width": 1015.0000000000001,
+            "height": 732.9661912308505
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 400,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.57,
+      "rotateZ": 1.57,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 401,
+      "y": 1373
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/quartiere_studi/cerchiatura.svg",
+          "type": "Image",
+          "x": 174,
+          "y": 50,
+          "scale": {
+            "width": 685.1854526383278,
+            "height": 687.6952894611788
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 873,
+      "y": 642
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 162,
+          "y": 320,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Stazione di Fuorigrotta</font>",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 1,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 911,
+      "y": 618
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 325,
+          "y": 321,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Fuorigrotta</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/fuorigrotta/fuorigrotta_1.jpg",
+          "type": "Image",
+          "x": 110,
+          "y": 9,
+          "scale": {
+            "x": 0.43792325056433407,
+            "y": 0.43792325056433407,
+            "width": 776,
+            "height": 746.6591422121896
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 913,
+      "y": 223
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/fuorigrotta/fuorigrotta_2.jpg",
+          "type": "Image",
+          "x": 9,
+          "y": 18,
+          "scale": {
+            "x": 0.4755409219190969,
+            "y": 0.4755409219190969,
+            "width": 1011,
+            "height": 730.4308560677329
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.67,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 1101,
+      "y": 223
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/fuorigrotta/fuorigrotta_3.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 9,
+          "scale": {
+            "x": 0.477892756349953,
+            "y": 0.477892756349953,
+            "width": 1016,
+            "height": 734.0432737535277
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.5,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "x": 1283,
+      "y": 160
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/fuorigrotta/fuorigrotta_5.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 54,
+          "scale": {
+            "x": 0.9931640625,
+            "y": 0.9931640625,
+            "width": 1017,
+            "height": 674.3583984375
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.34,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "x": 1260,
+      "y": 342
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/fuorigrotta/fuorigrotta_8.jpg",
+          "type": "Image",
+          "x": 7,
+          "y": 48,
+          "scale": {
+            "x": 0.6791946308724832,
+            "y": 0.6791946308724832,
+            "width": 1012,
+            "height": 654.7436241610739
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.35,
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "x": 1455,
+      "y": 267
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/quartiere_studi/cerchiatura.svg",
+          "type": "Image",
+          "x": 273,
+          "y": 116,
+          "scale": {
+            "width": 445.72541127056354,
+            "height": 445.7254112705636
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 36,
+      "selected": false,
+      "active": false,
+      "x": 826,
+      "y": 660
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 344,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Stazione&nbsp;Mostra d'Oltremare</font>",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 1,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 37,
+      "selected": false,
+      "active": false,
+      "x": 810,
+      "y": 635
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/oltremare/oltremare_1.jpg",
+          "type": "Image",
+          "x": 103,
+          "y": 6,
+          "scale": {
+            "x": 0.458803611738149,
+            "y": 0.458803611738149,
+            "width": 813,
+            "height": 748.308690744921
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 38,
+      "selected": false,
+      "active": false,
+      "x": 566,
+      "y": 487
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/oltremare/oltremare_2.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 103,
+          "scale": {
+            "x": 0.4783631232361242,
+            "y": 0.4783631232361242,
+            "width": 1017,
+            "height": 557.2930385700847
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 400,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 39,
+      "selected": false,
+      "active": false,
+      "x": 567,
+      "y": 575
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/oltremare/oltremare_3.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 21,
+          "scale": {
+            "x": 0.4764816556914393,
+            "y": 0.4764816556914393,
+            "width": 1013,
+            "height": 731.8758231420508
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.91,
+      "index": 40,
+      "selected": false,
+      "active": false,
+      "x": 382,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/oltremare/oltremare_4.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 13,
+          "scale": {
+            "x": 0.477892756349953,
+            "y": 0.477892756349953,
+            "width": 1016,
+            "height": 734.0432737535277
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.3,
+      "index": 41,
+      "selected": false,
+      "active": false,
+      "x": 351,
+      "y": 640
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/oltremare/oltremare_6.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 11,
+          "scale": {
+            "x": 0.477892756349953,
+            "y": 0.477892756349953,
+            "width": 1016,
+            "height": 734.0432737535277
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 42,
+      "selected": false,
+      "active": false,
+      "x": 167,
+      "y": 506
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/oltremare/oltremare_8.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 14,
+          "scale": {
+            "x": 0.4783631232361242,
+            "y": 0.4783631232361242,
+            "width": 1017,
+            "height": 734.7657572906867
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.33,
+      "index": 43,
+      "selected": false,
+      "active": false,
+      "x": 119,
+      "y": 665
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/oltremare/RinoGiardiello_Cumana-B02.jpg",
+          "type": "Image",
+          "x": 262,
+          "y": 7,
+          "scale": {
+            "x": 1.3542857142857143,
+            "y": 1.3542857142857143,
+            "width": 474,
+            "height": 751.6285714285715
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 44,
+      "selected": false,
+      "active": false,
+      "x": 238,
+      "y": 779
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 40,
+        "y": 244,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">1938-1940</span></div><font face=\"Lato\"><div style=\"text-align: center;\">Le stazioni della linea cumana</div></font>",
+        "selected": false
+      }
+    ],
+    "z": 700,
+    "impScale": 2,
+    "rotateX": -1.57,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 918,
+    "y": 499
+  },
+  "fileName": "cumana",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
