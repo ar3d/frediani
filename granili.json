@@ -1,0 +1,521 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 116,
+          "y": 91,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">LA CENTRALE&nbsp;</span></div><font face=\"Lato\"><div style=\"text-align: center;\">RICEVITRICE E TERMICA</div><div style=\"text-align: center;\">AI GRANILI A NAPOLI</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 149,
+          "y": 370,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">firmato</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">ing. Gian Domenico Cangia</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 2,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 377,
+      "y": 102
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_1.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 64,
+          "scale": {
+            "x": 0.48071495766698025,
+            "y": 0.48071495766698025,
+            "width": 1022,
+            "height": 624.4487300094073
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 496,
+      "y": 204
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_2.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 72,
+          "scale": {
+            "x": 0.4807149576669803,
+            "y": 0.4807149576669803,
+            "width": 1022.0000000000001,
+            "height": 624.4487300094074
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 6,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 735,
+      "y": 367
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_8.jpg",
+          "type": "Image",
+          "x": 120,
+          "y": 138,
+          "scale": {
+            "x": 0.39369708372530576,
+            "y": 0.39369708372530576,
+            "width": 837,
+            "height": 428.34242709313264
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1500,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.57,
+      "rotateZ": 1.57,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 498,
+      "y": 399
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_7.jpg",
+          "type": "Image",
+          "x": 24,
+          "y": 160,
+          "scale": {
+            "x": 0.4576669802445908,
+            "y": 0.4576669802445908,
+            "width": 973,
+            "height": 497.9416745061148
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1500,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 722,
+      "y": 505
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_11.jpg",
+          "type": "Image",
+          "x": 69,
+          "y": 187,
+          "scale": {
+            "x": 0.40780809031044213,
+            "y": 0.40780809031044213,
+            "width": 867,
+            "height": 443.695202257761
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1500,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1.57,
+      "rotateZ": -1.57,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 981,
+      "y": 401
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_9.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 133,
+          "scale": {
+            "x": 0.47224835371589835,
+            "y": 0.47224835371589835,
+            "width": 1003.9999999999999,
+            "height": 514.2784571966133
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 1500,
+      "impScale": 2,
+      "rotateX": -1.58,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 675,
+      "y": 238
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 111,
+          "y": 331,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">La centrale in costruzione</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1100,
+      "y": 137
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_15.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 17,
+          "scale": {
+            "x": 0.47695202257761055,
+            "y": 0.47695202257761055,
+            "width": 1014,
+            "height": 733.0752587017874
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 50,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1087,
+      "y": 127
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 306,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Nuovo ingresso alla centrale</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1298,
+      "y": 156
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_19.jpg",
+          "type": "Image",
+          "x": 7,
+          "y": 10,
+          "scale": {
+            "x": 0.4764816556914393,
+            "y": 0.4764816556914393,
+            "width": 1013,
+            "height": 731.8758231420508
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 100,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1293,
+      "y": 167
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 320,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Locale tecnico del carroponte</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1405,
+      "y": 279
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_17.jpg",
+          "type": "Image",
+          "x": 7,
+          "y": 16,
+          "scale": {
+            "x": 0.47507055503292567,
+            "y": 0.47507055503292567,
+            "width": 1010,
+            "height": 729.7083725305738
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 150,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1407,
+      "y": 288
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 305,
+          "y": 313,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\">Sala macchine</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.79,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1171,
+      "y": 330
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_18.jpg",
+          "type": "Image",
+          "x": 9,
+          "y": 10,
+          "scale": {
+            "x": 0.47412982126058323,
+            "y": 0.47412982126058323,
+            "width": 1008,
+            "height": 728.2634054562559
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 200,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.79,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 1173,
+      "y": 324
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 59,
+          "y": 270,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><b>1932</b></span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Inaugurazione della centrale</span></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.35,
+      "index": 15,
+      "selected": true,
+      "active": true,
+      "x": 1307,
+      "y": 439
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/granili/granili_20.jpg",
+          "type": "Image",
+          "x": 7,
+          "y": 20,
+          "scale": {
+            "x": 0.4760112888052681,
+            "y": 0.4760112888052681,
+            "width": 1012,
+            "height": 731.1533396048918
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 250,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.35,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1308,
+      "y": 439
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 59,
+        "y": 270,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><b>1932</b></span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Inaugurazione della centrale</span></div>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 1,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0.35,
+    "index": 15,
+    "selected": true,
+    "active": true,
+    "x": 1307,
+    "y": 439
+  },
+  "fileName": "granili",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 892,
+  "overviewY": 303.5
+}
