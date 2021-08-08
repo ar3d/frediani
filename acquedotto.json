@@ -1,0 +1,485 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 236,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Il rilievo&nbsp;</span></div><font face=\"Lato\"><div style=\"text-align: center;\">dell'acquedotto augusteo&nbsp;</div><div style=\"text-align: center;\">di Venafro</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 1043,
+      "y": 823
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/acquedotto/tracciato.svg",
+          "type": "Image",
+          "x": 232,
+          "y": 6,
+          "scale": {
+            "width": 536.0472923140313,
+            "height": 758.1626061318101
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 10,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 1048,
+      "y": 575
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 7,
+          "y": 91,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«A seguito dei sopralluoghi preliminari effettuati <br>prima col Capo servizio Studi e Lavori dell’Ente, <br>Ingegnere <b>Vincenzo Cimorelli</b>, - poi anche con <br>l’ intervento del Prof. <b>Amedeo Maiuri</b> - e delle <br>prime ricerche fatte dall’ Ing. <b>Ruggiero de Jorio</b>, <br>ho concertato con l’Ing. de Jorio di questo Ente, <br>lo sviluppo da dare alle ricerche sul tracciato <br>dell’<b>Acquedotto augusteo di Venafro</b>, <br>come da richiesta fattane dal prof. Maiuri <br>all’<b>Amministrazione dell’Ente Volturno</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 300,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 864,
+      "y": 458
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 65,
+          "y": 66,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Premesso che le <b>notizie bibliografiche</b> <br>sull’<b>acquedotto di Venafro</b> non sono che <br><b>scarse e frammentarie</b> (Cotugno e Trutta), <br>e che le indicazioni di <b>gente del luogo</b> sono <br>in buona parte incerte e sono il <b>prodotto di <br>fantasia</b> che in fatto di antichità è <b>sempre <br>desta ovunque</b>, ci siamo orientati nelle <br>ricerche, fra <b>punti già noti</b>, posti a grande <br>distanza fra loro, basandoci principalmente <br>sulla <b>configurazione</b> e <b>natura del terreno</b> <br>e sulle <b>livellazioni</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 1500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1246,
+      "y": 559
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/quartiere_studi/cerchiatura.svg",
+          "type": "Image",
+          "x": 50,
+          "y": 146,
+          "scale": {
+            "width": 427.4510853374384,
+            "height": 427.45108533743837
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1094,
+      "y": 430
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/acquedotto/particolare_4.svg",
+          "type": "Image",
+          "x": 128,
+          "y": 5,
+          "scale": {
+            "width": 759.1042992126177,
+            "height": 759.1042992126177
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1361,
+      "y": 392
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+          "type": "Image",
+          "x": 210,
+          "y": 177,
+          "scale": {
+            "width": 602.8270135149633,
+            "height": 301.4135067574816
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1374,
+      "y": 361
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 10,
+          "y": 66,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Tale ritrovamento, come i seguenti dei quali <br>parleremo, si deve principalmente alla <b>durissima <br>incrostazione interna dello speco</b> che è rimasta <br>ad indicarne decisamente il tracciato mentre <br>l’<b>opera muraria</b> è in quel tratto <b>quasi del tutto <br>distrutta</b>: occorrerebbero scavi rilevanti per <br>poter mettere in luce la platea e la fondazione <br>del canale.\n<br></font>La <b>pendenza</b> in questo tratto è <b>fortissima</b> - <br>25 % circa - e la sezione, in larghezza, risulta <br>di cm. 60.»<br>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1292,
+      "y": 391
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/acquedotto/particolare_3.svg",
+          "type": "Image",
+          "x": 128,
+          "y": 11,
+          "scale": {
+            "width": 745.7519263988258,
+            "height": 745.7519263988258
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1456,
+      "y": 404
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mommsen/immagini/cerchiatura.svg",
+          "type": "Image",
+          "x": 63,
+          "y": 141,
+          "scale": {
+            "width": 870.6661359749266,
+            "height": 435.3330679874634
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1360,
+      "y": 438
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 0,
+          "y": 100,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Di particolare interesse è lo scavo n. 5 dove <br>emerge meglio la <b>parte strutturale dello speco</b>, <br>costituita : <br></font><span style=\"font-family: Lato;\">&nbsp; &nbsp; a) da una platea di <b>blocchi di pietra squadrata</b>;</span><font face=\"Lato\"><br></font><font face=\"Lato\">&nbsp; &nbsp; b) dai due piedritti dello spessore di cm. 60 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; in muratura ordinaria con pietra di cava e <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; con inclusioni di <b>grosse pietre squadrate <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; poste alla base</b> verso l’interno dello speco; <br>&nbsp; &nbsp; c) dalla volta a tutto sesto in muratura ordinaria <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;dello spessore di circa cm. 30-35.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1282,
+      "y": 471
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/acquedotto/particolare_2.svg",
+          "type": "Image",
+          "x": 143,
+          "y": 11,
+          "scale": {
+            "width": 742.6662139939267,
+            "height": 742.6662139939267
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1416,
+      "y": 490
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/acquedotto/particolare_1.svg",
+          "type": "Image",
+          "x": 123,
+          "y": -2,
+          "scale": {
+            "width": 766.4185804686748,
+            "height": 766.4185804686748
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1705,
+      "y": 521
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/quartiere_studi/cerchiatura.svg",
+          "type": "Image",
+          "x": 338,
+          "y": 171,
+          "scale": {
+            "width": 361.4557320650776,
+            "height": 361.4557320650776
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 1083,
+      "y": 544
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 119,
+          "y": 127,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«In fondo al vallone, di fronte a «<b>Bosco <br>Valle Porcina</b>» il <b>solidissimo ponte</b> ad <br>una arcata impostato su due spuntoni <br>di roccia a livelli diversi, della luce di <br>m. 2.10 circa e dello spessore in chiave <br>di cm. 85 è opera che si è voluto <br>particolarmente illustrare per averci <br>richiesto un <b>particolare esame</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 1208,
+      "y": 652
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 216,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«La <b>livellazione</b> effettuata dall’Ing. de Jorio <br>ha dato la quota del ponte a 286 s.m.l., <br>quindi anche sotto gli aspetti altimetrici <br>il ponte ritrovato può essere ritenuto <br>senz’altro <b>Ponte-Canale dell’Acquedotto</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1156,
+      "y": 700
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/frediani/immagini/acquedotto/ponte_canale.svg",
+          "type": "Image",
+          "x": 156,
+          "y": 4,
+          "scale": {
+            "width": 699.0281453542733,
+            "height": 765.0572522832034
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 200,
+      "impScale": 1,
+      "rotateX": -1.57,
+      "rotateY": 1.57,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 899,
+      "y": 664
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 102,
+        "y": 236,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Il rilievo&nbsp;</span></div><font face=\"Lato\"><div style=\"text-align: center;\">dell'acquedotto augusteo&nbsp;</div><div style=\"text-align: center;\">di Venafro</div></font>",
+        "selected": false
+      }
+    ],
+    "z": 1000,
+    "impScale": 3,
+    "rotateX": -1.57,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 1043,
+    "y": 823
+  },
+  "fileName": "acquedotto",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
