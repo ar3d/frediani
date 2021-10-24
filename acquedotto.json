@@ -22,8 +22,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 1043,
       "y": 823
     },
@@ -48,8 +48,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 1,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 1048,
       "y": 575
     },
@@ -65,7 +65,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«A seguito dei sopralluoghi preliminari effettuati <br>prima col Capo servizio Studi e Lavori dell’Ente, <br>Ingegnere <b>Vincenzo Cimorelli</b>, - poi anche con <br>l’ intervento del Prof. <b>Amedeo Maiuri</b> - e delle <br>prime ricerche fatte dall’ Ing. <b>Ruggiero de Jorio</b>, <br>ho concertato con l’Ing. de Jorio di questo Ente, <br>lo sviluppo da dare alle ricerche sul tracciato <br>dell’<b>Acquedotto augusteo di Venafro</b>, <br>come da richiesta fattane dal prof. Maiuri <br>all’<b>Amministrazione dell’Ente Volturno</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«A seguito dei sopralluoghi preliminari effettuati <br>prima col Capo servizio Studi e Lavori dell’Ente, <br>Ingegnere <b>Vincenzo Cimorelli</b>, - poi anche con <br>l’intervento del Prof. <b>Amedeo Maiuri</b> - e delle <br>prime ricerche fatte dall’Ing. <b>Ruggiero de Jorio</b>, <br>ho concertato con l’Ing. de Jorio di questo Ente, <br>lo sviluppo da dare alle ricerche sul tracciato <br>dell’<b>Acquedotto augusteo di Venafro</b>, <br>come da richiesta fattane dal prof. Maiuri <br>all’<b>Amministrazione dell’Ente Volturno</b>».</font><br>",
           "selected": false
         }
       ],
@@ -92,7 +92,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Premesso che le <b>notizie bibliografiche</b> <br>sull’<b>acquedotto di Venafro</b> non sono che <br><b>scarse e frammentarie</b> (Cotugno e Trutta), <br>e che le indicazioni di <b>gente del luogo</b> sono <br>in buona parte incerte e sono il <b>prodotto di <br>fantasia</b> che in fatto di antichità è <b>sempre <br>desta ovunque</b>, ci siamo orientati nelle <br>ricerche, fra <b>punti già noti</b>, posti a grande <br>distanza fra loro, basandoci principalmente <br>sulla <b>configurazione</b> e <b>natura del terreno</b> <br>e sulle <b>livellazioni</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«Premesso che le <b>notizie bibliografiche</b> <br>sull’<b>acquedotto di Venafro</b> non sono che <br><b>scarse e frammentarie</b> (Cotugno e Trutta), <br>e che le indicazioni di <b>gente del luogo</b> sono <br>in buona parte incerte e sono il <b>prodotto di <br>fantasia</b> che in fatto di antichità è <b>sempre <br>desta ovunque</b>, ci siamo orientati nelle <br>ricerche, fra <b>punti già noti</b>, posti a grande <br>distanza fra loro, basandoci principalmente <br>sulla <b>configurazione</b> e <b>natura del terreno</b> <br>e sulle <b>livellazioni</b>».</font><br>",
           "selected": false
         }
       ],
@@ -197,7 +197,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Tale ritrovamento, come i seguenti dei quali <br>parleremo, si deve principalmente alla <b>durissima <br>incrostazione interna dello speco</b> che è rimasta <br>ad indicarne decisamente il tracciato mentre <br>l’<b>opera muraria</b> è in quel tratto <b>quasi del tutto <br>distrutta</b>: occorrerebbero scavi rilevanti per <br>poter mettere in luce la platea e la fondazione <br>del canale.\n<br></font>La <b>pendenza</b> in questo tratto è <b>fortissima</b> - <br>25 % circa - e la sezione, in larghezza, risulta <br>di cm. 60.»<br>",
+          "text": "<font face=\"Lato\">«Tale ritrovamento, come i seguenti dei quali <br>parleremo, si deve principalmente alla <b>durissima <br>incrostazione interna dello speco</b> che è rimasta <br>ad indicarne decisamente il tracciato mentre <br>l’<b>opera muraria</b> è in quel tratto <b>quasi del tutto <br>distrutta</b>: occorrerebbero scavi rilevanti per <br>poter mettere in luce la platea e la fondazione <br>del canale.\n<br></font>La <b>pendenza</b> in questo tratto è <b>fortissima</b> - <br>25 % circa - e la sezione, in larghezza, risulta <br>di cm. 60».<br>",
           "selected": false
         }
       ],
@@ -276,7 +276,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Di particolare interesse è lo scavo n. 5 dove <br>emerge meglio la <b>parte strutturale dello speco</b>, <br>costituita : <br></font><span style=\"font-family: Lato;\">&nbsp; &nbsp; a) da una platea di <b>blocchi di pietra squadrata</b>;</span><font face=\"Lato\"><br></font><font face=\"Lato\">&nbsp; &nbsp; b) dai due piedritti dello spessore di cm. 60 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; in muratura ordinaria con pietra di cava e <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; con inclusioni di <b>grosse pietre squadrate <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; poste alla base</b> verso l’interno dello speco; <br>&nbsp; &nbsp; c) dalla volta a tutto sesto in muratura ordinaria <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;dello spessore di circa cm. 30-35.»</font><br>",
+          "text": "<font face=\"Lato\">«Di particolare interesse è lo scavo n. 5 dove <br>emerge meglio la <b>parte strutturale dello speco</b>, <br>costituita : <br></font><span style=\"font-family: Lato;\">&nbsp; &nbsp; a) da una platea di <b>blocchi di pietra squadrata</b>;</span><font face=\"Lato\"><br></font><font face=\"Lato\">&nbsp; &nbsp; b) dai due piedritti dello spessore di cm. 60 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; in muratura ordinaria con pietra di cava e <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; con inclusioni di <b>grosse pietre squadrate <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; poste alla base</b> verso l’interno dello speco; <br>&nbsp; &nbsp; c) dalla volta a tutto sesto in muratura ordinaria <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;dello spessore di circa cm. 30-35».</font><br>",
           "selected": false
         }
       ],
@@ -381,7 +381,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«In fondo al vallone, di fronte a «<b>Bosco <br>Valle Porcina</b>» il <b>solidissimo ponte</b> ad <br>una arcata impostato su due spuntoni <br>di roccia a livelli diversi, della luce di <br>m. 2.10 circa e dello spessore in chiave <br>di cm. 85 è opera che si è voluto <br>particolarmente illustrare per averci <br>richiesto un <b>particolare esame</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«In fondo al vallone, di fronte a «<b>Bosco <br>Valle Porcina</b>» il <b>solidissimo ponte</b> ad <br>una arcata impostato su due spuntoni <br>di roccia a livelli diversi, della luce di <br>m. 2.10 circa e dello spessore in chiave <br>di cm. 85 è opera che si è voluto <br>particolarmente illustrare per averci <br>richiesto un <b>particolare esame</b>».</font><br>",
           "selected": false
         }
       ],
@@ -408,7 +408,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«La <b>livellazione</b> effettuata dall’Ing. de Jorio <br>ha dato la quota del ponte a 286 s.m.l., <br>quindi anche sotto gli aspetti altimetrici <br>il ponte ritrovato può essere ritenuto <br>senz’altro <b>Ponte-Canale dell’Acquedotto</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«La <b>livellazione</b> effettuata dall’Ing. de Jorio <br>ha dato la quota del ponte a 286 s.m.l., <br>quindi anche sotto gli aspetti altimetrici <br>il ponte ritrovato può essere ritenuto <br>senz’altro <b>Ponte-Canale dell’Acquedotto</b>».</font><br>",
           "selected": false
         }
       ],
@@ -453,33 +453,34 @@
   "activeSlide": {
     "components": [
       {
-        "TextBox": {},
-        "x": 102,
-        "y": 236,
+        "src": "https://ar3d.github.io/frediani/immagini/acquedotto/tracciato.svg",
+        "type": "Image",
+        "x": 232,
+        "y": 6,
         "scale": {
-          "x": 1,
-          "y": 1
+          "width": 536.0472923140313,
+          "height": 758.1626061318101
         },
-        "type": "TextBox",
-        "size": 72,
-        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Il rilievo&nbsp;</span></div><font face=\"Lato\"><div style=\"text-align: center;\">dell'acquedotto augusteo&nbsp;</div><div style=\"text-align: center;\">di Venafro</div></font>",
+        "imageType": "SVG",
         "selected": false
       }
     ],
-    "z": 1000,
-    "impScale": 3,
-    "rotateX": -1.57,
+    "z": 0,
+    "impScale": 10,
+    "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 0,
+    "index": 1,
     "selected": true,
     "active": true,
-    "x": 1043,
-    "y": 823
+    "x": 1048,
+    "y": 575
   },
   "fileName": "acquedotto",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  }
+  },
+  "overviewX": 971.5,
+  "overviewY": 366.5
 }
